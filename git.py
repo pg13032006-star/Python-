@@ -1,3 +1,2 @@
 print("Hello, World!")
-print("hello from srishti !")
-print("hello from srishti !")
+print("This is a sample Python script.")
